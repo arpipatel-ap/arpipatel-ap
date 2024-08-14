@@ -7,6 +7,8 @@ Full Stack Developer | Lighthouse Labs Graduate
 
 🔭 Currently working on typescripts.
 
+Visit my portfolio here: https://arpipatel.vercel.app/
+
 🌱 Always learning new technologies and improving my skills.
 
 🏆 Passionate about building efficient and scalable web applications.

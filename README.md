@@ -1,5 +1,5 @@
 Hi, I'm Arpi 👋
-Full Stack Developer | Lighthouse Labs Graduate
+Full Stack Web Developer | Lighthouse Labs Graduate
 
 🎓 Recently completed my Full Stack Web Development diploma at Lighthouse Labs.
 
@@ -9,4 +9,4 @@ Visit my portfolio here: https://arpipatel.vercel.app/
 
 🌱 Always learning new technologies and improving my skills.
 
-🏆 Passionate about building efficient and scalable web applications.
+🏆 Passionate about building efficient and scalable web applications. Also looking for new role in tech industry.

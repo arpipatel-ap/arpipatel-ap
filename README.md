@@ -7,6 +7,6 @@ Full Stack Web Developer | Lighthouse Labs Graduate
 
 Visit my portfolio here: https://arpipatel.vercel.app/
 
-🌱 Always learning new technologies and improving my skills.
+🌱 Always learning new technologies and improving my skills.and always wants to learn about more AI features.
 
 🏆 Passionate about building efficient and scalable web applications. Also looking for new role in tech industry.
